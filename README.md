@@ -1,3 +1,3 @@
 # infra_actions
 Учебный проект для изучения работы GitHub Actions (Яндекс Практикум)
-Test 76
+Test 7
